@@ -1,5 +1,5 @@
 # VRE
-My first ML project created for Course Work in university
+My first ML project created as Course Work in university
 
 During this project I tried to create "Virtual Flow Meter"
 
